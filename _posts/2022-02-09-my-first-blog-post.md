@@ -1,5 +1,6 @@
 ---
 title: "YOUR-TITLE"
-date: YYYY-MM-DD
+date: 2000-01-01
 ---
+
 blogging
